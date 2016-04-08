@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1459023749 source:/home/ema/Documentos/Codeblocks/calculadoraTP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459091885 /home/ema/Documentos/Codeblocks/calculadoraTP1/operacionesMatematicas.h
+
+1459114468 source:/home/ema/Documentos/Codeblocks/calculadoraTP1/operacionesMatematicas.c
+
+1459305427 source:c:\users\ema\downloads\calculadoratp1 (1)\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459304917 c:\users\ema\downloads\calculadoratp1 (1)\calculadoratp1\operacionesmatematicas.h
+
+1459305558 source:c:\users\ema\downloads\calculadoratp1 (1)\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1459305427 source:c:\users\ema\desktop\calculadoratp1 (1)\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459304917 c:\users\ema\desktop\calculadoratp1 (1)\calculadoratp1\operacionesmatematicas.h
+
+1459305558 source:c:\users\ema\desktop\calculadoratp1 (1)\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1459305427 source:c:\users\ema\desktop\calculadoratp1\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459304917 c:\users\ema\desktop\calculadoratp1\calculadoratp1\operacionesmatematicas.h
+
+1459305558 source:c:\users\ema\desktop\calculadoratp1\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1459305427 source:c:\users\ebuono\downloads\calculadoratp1\calculadoratp1\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459304917 c:\users\ebuono\downloads\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.h
+
+1459354666 source:c:\users\ebuono\downloads\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1459357059 source:c:\users\ebuono\desktop\calculadoratp1\calculadoratp1\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459304917 c:\users\ebuono\desktop\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.h
+
+1459357139 source:c:\users\ebuono\desktop\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1459960300 source:c:\users\ebuono.stkd\downloads\calculadoratp1(laburo)\calculadoratp1\calculadoratp1\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1459961499 c:\users\ebuono.stkd\downloads\calculadoratp1(laburo)\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.h
+
+1459960075 source:c:\users\ebuono.stkd\downloads\calculadoratp1(laburo)\calculadoratp1\calculadoratp1\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1460049172 source:c:\users\ebuono\downloads\calculadoratp1 2.0\calculadoratp1 2.0\calculadoratp1\operacionesmatematicas.c
+	<stdio.h>
+	<conio.h>
+
+1460059243 source:c:\users\ebuono\downloads\calculadoratp1 2.0\calculadoratp1 2.0\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"operacionesMatematicas.h"
+
+1459962206 c:\users\ebuono\downloads\calculadoratp1 2.0\calculadoratp1 2.0\calculadoratp1\operacionesmatematicas.h
+
