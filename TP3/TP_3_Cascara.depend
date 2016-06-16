@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1464835865 source:c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\lib.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
+1464228959 c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\lib.h
+
+1464216711 c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\validations.h
+
+1464228800 source:c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"lib.h"
+	"validations.h"
+
+1464210518 c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\funciones.h
+
+1464216711 source:c:\users\emanu\downloads\tp_3_cascara\tp_3_cascara\validations.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
+1466038550 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\lib.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
+1466038435 c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\lib.h
+
+1466034412 c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\validations.h
+
+1464228800 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"lib.h"
+	"validations.h"
+
+1464210518 c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\funciones.h
+
+1466034412 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp_3_cascara\validations.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
+1464228800 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"lib.h"
+	"validations.h"
+
+1464210518 c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\funciones.h
+
+1466038435 c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\lib.h
+
+1466034412 c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\validations.h
+
+1466043505 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\validations.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
+1466043536 source:c:\users\emanu\downloads\tp_3_cascara 2.2\tp3\lib.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"validations.h"
+
